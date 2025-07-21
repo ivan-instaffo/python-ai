@@ -21,6 +21,6 @@ Your team needs a microservice that summarizes interview feedback. Your service 
 
 ## Submission Guidelines
 
-- Work on your solution inside a GitHub repository
-- Record a 5-minute video using Loom or another preferred approach to explain your solution (please provide a link instead of the entire video)
-- Inform us as soon as you are finished and include the repository and the video link
+- Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo` as collaborator upon completion
+- Provide a link to your short walk-through video (you can use Loom; anything is fine given it is easily accessible)
+- Reach out as soon as you are finished and include the repository as well as the video link
