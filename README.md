@@ -7,7 +7,7 @@ Python developer assessment task for the AI team.
 Your team needs a microservice that summarizes interview feedback. Your service will receive a short interview transcript and based on it, it is expected to return:
 
 - A concise summary
-- Tags
+- Tags (e.g., "confident", "detailed", "collaborative", "analytical", "enthusiastic", "experienced", "curious", "structured", "innovative", "practical")
 - Sentiment analysis
 
 ## Requirements

@@ -1,0 +1,126 @@
+{
+	"items": [
+		{
+			"id": "item_A1Qw2Zx9N7rE0vL5GtYUQ",
+			"type": "message",
+			"role": "user",
+			"content": ["Hello there!"],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw3Hj7LpQ2bE6KrFTZ",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Hello Emma Walker, welcome to your interview. Can you hear me clearly?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw5Xl8UrD4sV9PtGWK",
+			"type": "message",
+			"role": "user",
+			"content": ["Yes, I can hear you perfectly."],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw6Jp2QsC7uM8BnHSY",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Great. To begin, could you briefly tell me about your experience working with Python?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw7Gh6MzT3lK1QsJXC",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Sure. I’ve been working with Python for about four years, mainly focusing on web development and data analysis projects. I’ve also contributed to a few open source libraries."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw8Fp4VzE2bR3HtKYM",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Can you describe a project where you used Python to solve a challenging problem?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw9Ns7WdF6hT0PvLUZ",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"One example would be an automated report generator I built at my previous company. It collected data from several APIs, processed it, and generated summary reports for the team. I used pandas for data handling and Flask for serving the results."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw10KvUgD9mN3BtMZQ",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Interesting! What libraries or frameworks do you feel most comfortable with in Python?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw11LpYrB8nC5RwGVD",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I’m very comfortable with pandas, Flask, and SQLAlchemy. I also use pytest for testing and have experience with FastAPI in more recent projects."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw12FqSpJ6kP2TvNRB",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Can you explain how you approach debugging a Python application that suddenly starts returning incorrect results?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw13DzWxC4vH8QjMSN",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I usually start by reproducing the issue with test data and checking the logs for errors. Then I add breakpoints or use print statements to trace the data flow. I also review recent code changes to identify potential causes."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw14KpRsT5nZ1WcOYD",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Thank you, Emma. Last question: what’s a Python feature you like, and why?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw15QbGxH7pA3DuPTF",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I really like list comprehensions. They make it easy to write concise, readable code when transforming lists or filtering data."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_A1Qw16VmHtU2kJ4FrSWB",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"That’s a great answer. Thanks for your time today. This concludes the interview."
+			],
+			"interrupted": false
+		}
+	]
+}

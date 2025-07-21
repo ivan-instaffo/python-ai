@@ -1,0 +1,126 @@
+{
+	"items": [
+		{
+			"id": "item_B7Xt12MnReQw9P0aLfGUA",
+			"type": "message",
+			"role": "user",
+			"content": ["Hey, good afternoon!"],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt13GwFgT1kQ2dOpBVR",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Good afternoon, Jason Clarke. Welcome to your AI interview for the SDR role. Can you hear me clearly?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt14VzMqL9uA3eGtHZX",
+			"type": "message",
+			"role": "user",
+			"content": ["Yes, loud and clear."],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt15TfYjE8sK4cDtMNY",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Great. Let's start off simple—can you briefly introduce yourself and share why you're interested in this SDR position?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt16RbKsU2vP5bXpLMC",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Sure! I’m Jason, I’ve worked in customer-facing roles for the past three years, most recently in a lead generation agency. I’m drawn to SDR work because I enjoy building rapport quickly and love the challenge of turning cold leads into warm opportunities."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt17DxYgW3bE6oJvNBG",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Thanks for that. In your view, what makes a cold outreach message effective?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt18KvHjC6fQ7nUsMNR",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Relevance and personalization. You have to show that you’ve done your research—mention something specific to them or their company, and then connect it to a value prop that actually matters to their role."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt19PfFqJ0wM8rGwPYT",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Can you give an example of how you handled rejection from a prospect?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt20NhBvR4tL9zYcQXE",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Definitely. I once reached out to a VP of Marketing who replied with a very blunt 'not interested.' I followed up a few weeks later with a case study relevant to their industry and kept it super short. A week after that, they booked a call. Sometimes it’s just about timing and staying respectful."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt21KjXpN2vH0uLdMWF",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Nice follow-up. How do you prioritize your leads and manage your outreach pipeline?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt22SmCrM8xA1vVbPLR",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I segment my leads by industry and title, then score them based on engagement signals—like email opens or LinkedIn views. I use a cadence tool to automate touches, but I always personalize the first one. And I block time every day to review replies and adjust my messaging."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt23ZxWeD5yK2oAsRNE",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Good system. Last question: what motivates you in a sales role, especially when things are tough?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt24VbMcS1zB3qTpONC",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I’m really driven by goals and progress. I actually enjoy the grind of it—tracking my numbers, experimenting with messaging, and learning from the nos. The challenge is part of what keeps me engaged."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_B7Xt25UyDrE4cD4nKhQXZ",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Thank you, Jason. That wraps up your AI interview. You’ll hear back soon regarding next steps."
+			],
+			"interrupted": false
+		}
+	]
+}
