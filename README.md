@@ -1,4 +1,4 @@
-# Python AI - Interview Feedback Summarizer
+# Python AI - Interview Transcript Summarizer
 
 Python developer assessment task for the AI team.
 
