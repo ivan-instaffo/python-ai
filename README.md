@@ -19,7 +19,7 @@ Your team needs a microservice that summarizes interview feedback. Your service 
 - Record a short 5-minute video walking through your codebase, decisions and overall approach
 
 
-## How to start: 101
+## Submission Guidelines
 
 - Work on your solution inside a GitHub repository
 - Record a 5-minute video using Loom or another preferred approach to explain your solution (please provide a link instead of the entire video)
