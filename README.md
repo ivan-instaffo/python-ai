@@ -7,7 +7,7 @@ Python developer assessment task for the AI team.
 Your team needs a microservice that summarizes interview feedback. Your service will receive a short interview transcript and based on it, it is expected to return:
 
 - A concise summary
-- Tags (e.g., "confident", "detailed", "collaborative", "analytical", "enthusiastic", "experienced", "curious", "structured", "innovative", "practical")
+- Matching Tags
 - Sentiment analysis
 
 ## Requirements
@@ -18,9 +18,29 @@ Your team needs a microservice that summarizes interview feedback. Your service 
 - Your respository should include a README
 - Record a short 5-minute video walking through your codebase, decisions and overall approach
 
-
 ## Submission Guidelines
 
 - Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo` as collaborator upon completion
 - Provide a link to your short walk-through video (you can use Loom; anything is fine given it is easily accessible)
 - Reach out as soon as you are finished and include the repository as well as the video link
+
+## Tags
+
+The tags are used to highlight key qualities demonstrated in the transcript
+
+**Tags to use:** ["confident", "detailed", "collaborative", "analytical", "enthusiastic", "experienced", "curious", "structured", "innovative", "practical"]
+
+## Sentiments
+
+The sentiment helps reviewers quickly understand whether the candidate’s responses and the overall conversation were positive, negative, or neutral in nature.
+
+**Sentiment values to use:** ["positive", "neutral", "negative"]
+
+## Example response
+
+```json
+{
+  "summary": "The candidate demonstrated strong analytical thinking and was able to break down complex problems effectively. Collaboration skills were evident throughout the interview.",
+  "tags": ["analytical", "collaborative", "confident"],
+  "sentiment": "positive"
+}
