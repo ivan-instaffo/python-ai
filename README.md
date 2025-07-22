@@ -4,7 +4,7 @@ Python developer assessment task for the AI team.
 
 ## Scenario
 
-Your team needs a microservice that summarizes interview feedback. Your service will receive a short interview transcript and based on it, it is expected to return:
+Your team needs a microservice that summarizes interview transcripts. Your service receives an interview transcript that it needs to analyze & assess, and it is expected to return:
 
 - A concise summary
 - Matching Tags
@@ -20,7 +20,7 @@ Your team needs a microservice that summarizes interview feedback. Your service 
 
 ## Submission Guidelines
 
-- Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo` as collaborator upon completion
+- Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo` and `@vincenzo-instaffo` as collaborators upon completion
 - Provide a link to your short walk-through video (you can use Loom; anything is fine given it is easily accessible)
 - Reach out as soon as you are finished and include the repository as well as the video link
 
@@ -44,3 +44,10 @@ The sentiment helps reviewers quickly understand whether the candidate’s respo
   "tags": ["analytical", "collaborative", "confident"],
   "sentiment": "positive"
 }
+
+## What we will assess:
+
+- Overall structure and scalability
+- Clean and maintainable code
+- Well-defined API
+- Simple API tests (minimum effort) enough to showcase your understanding on how unit tests should be written

@@ -1,0 +1,900 @@
+{
+	"items": [
+		{
+			"id": "item_100000",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Hello Frank, welcome to your interview. Can you hear me clearly?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100001",
+			"type": "message",
+			"role": "user",
+			"content": ["Yeah, I guess. You're clear."],
+			"interrupted": false
+		},
+		{
+			"id": "item_100002",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Excellent. My name is Emma, and I'm a Senior Frontend Engineer here at Backendies GmbH. To start, could you please introduce yourself and tell us a bit about your experience?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100003",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I'm Frank. I've been doing frontend for like, two years now. Mostly React stuff. Some CSS and HTML, obviously."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100004",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright, Frank. Two years of experience, that's good. Can you tell me about a project you're particularly proud of and what your role was in it?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100005",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Uh, I worked on this e-commerce site. I did the product listing page. It was pretty basic, just rendering products from an API. I mean, it worked."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100006",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And what specific challenges did you encounter while building that product listing page? How did you overcome them?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100007",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Challenges? Not really. It was pretty straightforward. Just fetch data, map it to components. Sometimes the API was slow, but that's not really a frontend problem, right?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100008",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"While API speed can be a backend issue, how would you, as a frontend engineer, mitigate the impact of a slow API on user experience? What techniques could you use?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100009",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Uh, spinners? Like, loading indicators. Or maybe some skeleton screens, I guess. To show something's happening."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10010",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Those are good starts. Beyond visual indicators, have you considered data caching, pagination, or infinite scrolling to manage large datasets and improve perceived performance?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10011",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, we did pagination. And some basic caching in the browser, but nothing fancy."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10012",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. Let's talk about debugging. When you encounter a bug in your React application, what's your typical approach to finding and fixing it?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10013",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just use `console.log` a lot. Put it everywhere until I see where the value is wrong. Then I fix it. Pretty standard, I think."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10014",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Console logging is a common tool. Have you used browser developer tools for debugging, like breakpoints, network inspection, or the React DevTools?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10015",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Sometimes I open the dev tools, yeah. For network stuff if the API is broken. But mostly just `console.log`."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10016",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. How do you ensure your code is maintainable and easy for other developers to understand?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10017",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I try to write clean code. Not too many nested ifs. And, uh, name variables properly. That's about it."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10018",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Good principles. Have you had any experience with code reviews, either giving or receiving them?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10019",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, our senior guys review my stuff. Sometimes they tell me to change things. I just change whatever they say."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10020",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"When you receive feedback in a code review, do you try to understand the rationale behind the suggestions, or do you just implement the changes directly?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10021",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Usually just implement. I mean, they're the seniors, they know what they're doing, right?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10022",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"It's good to trust your seniors. However, understanding the 'why' behind feedback can significantly accelerate your learning. Would you agree?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10023",
+			"type": "message",
+			"role": "user",
+			"content": ["Yeah, maybe. Never really thought about it that way."],
+			"interrupted": false
+		},
+		{
+			"id": "item_10024",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. What about version control? Are you familiar with Git, and what's your experience using it in a team environment?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10025",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, I use Git. Push my code, pull updates. Sometimes I have conflicts, and then someone else usually fixes them or I just rebase. It works."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10026",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And when you encounter a merge conflict, do you try to resolve it yourself, or do you usually ask for help?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10027",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"If it's a small one, I try. But if it's big, I just ask. Faster that way."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10028",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I see. Let's move on to styling. What's your preferred method for styling React components? CSS modules, Styled Components, plain CSS?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10029",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just use regular CSS files. Sometimes we use Sass. Whatever the project uses, really. I don't really care much."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10030",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And when building user interfaces, how do you ensure they are responsive across different screen sizes and devices?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10031",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Media queries. And Flexbox. That usually does it. I mean, if the designer makes good designs, it's easy."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10032",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Indeed. And how do you test your frontend code? Do you write unit tests or integration tests?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10033",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Tests? Not really. Our QA team does all the testing. I just make sure it works when I'm done."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10034",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"So you don't write any automated tests for your code?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10035",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Nah, not really. It takes too much time. And QA catches stuff anyway."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10036",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I see. At Backendies, we place a strong emphasis on automated testing as part of our development process. Do you have any experience with TypeScript?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10037",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"A little bit. Some projects used it. It's just JavaScript with extra steps, mostly. Kinda annoying sometimes with all the types."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10038",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Can you explain what benefits TypeScript brings to a larger codebase or a team environment, despite the 'extra steps'?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10039",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Uh, I guess it catches errors early? So you don't have runtime errors as much. And like, autocompletion in the editor."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10040",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Those are definitely key advantages. How do you handle state management in your React applications? Are you familiar with Redux or React Context?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10041",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"We use `useState` and `useContext` for most things. Sometimes Redux if it's a big app, but I haven't really set up Redux from scratch."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10042",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. So you're more comfortable with local component state and the Context API. Have you had to deal with any performance issues in the frontend applications you've worked on?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10043",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Not really. I mean, if it's slow, it's probably the backend or too many images. I just build what the design says."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10044",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"While images and backend can contribute, frontend code itself can also impact performance significantly. Are you familiar with concepts like code splitting, lazy loading, or image optimization?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10045",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Heard of them. Never really implemented them myself. That's usually set up by the senior guys, I thought."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10046",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"It's true that senior engineers often set up the initial architecture, but understanding these concepts is crucial for all frontend developers to write performant code. How do you stay updated with new frontend technologies or best practices?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10047",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just kinda see what's trending on Twitter or something. Or if someone on the team mentions a new library. No formal stuff."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10048",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"So, more informal learning, I understand. Have you worked with any build tools like Webpack or Vite?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10049",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Webpack, yeah. It just kinda works in the background. I never really touch the config files unless something breaks."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10050",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. What about accessibility? How do you ensure the user interfaces you build are accessible to users with disabilities?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10051",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Accessibility? I mean, I try to use semantic HTML, like buttons for buttons and stuff. Beyond that, not really. It's not usually a big priority in my projects."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10052",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"At Backendies, accessibility is a very important consideration from the start of every project. It ensures our applications can be used by everyone. Have you had any experience working with design systems or component libraries?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10053",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, we had a basic component library. Like, pre-built buttons and inputs. I just used those. It was easy."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10054",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And when you encounter a feature that seems particularly complex, how do you typically break it down and approach it?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10055",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just start coding, really. If it gets too hard, I ask someone. Or look it up online."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10056",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Fair enough. How do you handle situations where you receive feedback on your code that you don't agree with?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10057",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"If I don't agree, I just say so. And if they insist, then I do it. But usually, I just do what they say."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10058",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"It's important to be able to articulate your reasoning, but also to know when to defer to team consensus. Have you ever worked on a project that involved integrating with a new or unfamiliar API?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10059",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, sometimes. Just read the docs and make the requests. If the docs are bad, it's harder, obviously."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10060",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"When docs are poor, how do you typically go about understanding how the API works? Do you try to infer from existing code, or perhaps communicate directly with the backend team?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10061",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just ping the backend guys. They usually know. Or I look at other parts of the code that use similar APIs."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10062",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"That's a practical approach. What about user experience? How do you think about the user's perspective when building features?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10063",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just follow the design. The designers handle the user experience stuff. My job is to make it look like the design."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10064",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"While design handles the overall look and feel, frontend engineers often discover usability issues or opportunities for improvement during implementation. Do you ever provide feedback to designers or product managers based on your implementation experience?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10065",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Not really. Unless something is impossible to build. Then I'll say something. Otherwise, I just build it."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10066",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. Let's discuss a time you encountered an unexpected problem or bug that significantly delayed your work. How did you handle it?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10067",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Uh, one time a third-party library just stopped working after an update. It broke everything. I just waited for the seniors to figure it out, really. Nothing I could do."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10068",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"In a situation like that, did you try to investigate the issue yourself at all, or look for alternative solutions while waiting?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10069",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I mean, I looked at the error message. It didn't make much sense. So, no, not really. It was pretty complex."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10070",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I understand. It sounds like you prefer to defer to senior team members for complex issues. How do you manage your time and prioritize tasks when you have multiple things to work on?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10071",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"My team lead assigns tasks, so I just do whatever is highest on the list. If I'm stuck, I just switch to something else."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10072",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And when you switch to something else because you're stuck, do you communicate that immediately to your team lead or the relevant stakeholders?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10073",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Eventually, yeah. If I'm stuck for a while. No point bothering them right away, you know?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10074",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Early communication is key in a team environment to address blockers efficiently. Do you have any experience with testing tools like Jest or React Testing Library?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10075",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Not really. We didn't do much testing at my last job. As I said, QA handled it."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10076",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. What about continuous integration and continuous deployment (CI/CD)? Are you familiar with those concepts in a frontend context?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10077",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I know it's about automating builds and deployments. We had it set up, but I never configured it myself. Just pushed code, and it deployed automatically."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10078",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"So you understand the outcome, but not necessarily the underlying process. How do you approach optimizing load times for images and other assets?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10079",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just make sure the images aren't huge. Like, compress them if they're too big. That's about it."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10080",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Compressing images is a good start. Are you aware of other techniques like using modern image formats, responsive images, or CDNs?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10081",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, I've heard of WebP. And CDNs are for like, faster delivery, right? Never really set those up."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10082",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"That's correct, CDNs are for faster delivery. How do you handle form validation on the frontend?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10083",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Just basic checks. Like, is the email format right? Is the field empty? Simple stuff. Using JavaScript, of course."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10084",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"And how do you provide feedback to the user when validation fails?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10085",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Error messages next to the input fields. Like, 'Email is invalid' or 'This field is required'."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10086",
+			"type": "assistant",
+			"content": [
+				"Good. That's standard practice. Have you ever encountered situations where a frontend feature had significant security implications? How did you approach that?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10087",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Not really. I mean, I just send data to the API. Security is usually a backend thing, isn't it?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10088",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"While backend handles server-side security, frontend plays a crucial role too, like protecting against Cross-Site Scripting (XSS) or ensuring secure API calls. Are you familiar with these concepts?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10089",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Heard of XSS, yeah. It's when someone injects code, right? Not something I directly work on."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10090",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"It is. And preventing it often starts with how data is rendered on the frontend. What do you think is the most challenging aspect of frontend development for you personally?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10091",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Keeping up with all the new frameworks and libraries. It feels like something new comes out every week. It's annoying."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10092",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I understand that feeling. The ecosystem does evolve quickly. How do you approach learning new technologies when they emerge?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10093",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just wait until a project needs it. Then I'll look it up. No point learning it if I'm not gonna use it right away."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10094",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. Do you have any questions for me about Backendies GmbH, the team, or the role?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10095",
+			"type": "message",
+			"role": "user",
+			"content": ["Not really. What's the pay like?"],
+			"interrupted": false
+		},
+		{
+			"id": "item_10096",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"We can discuss salary expectations and compensation packages if we move forward to the next stage of interviews. For now, do you have any other questions related to the role or the company culture?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10097",
+			"type": "message",
+			"role": "user",
+			"content": ["Nah, I think I'm good."],
+			"interrupted": false
+		},
+		{
+			"id": "item_10098",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay, Frank. It was good speaking with you. We'll be in touch regarding the next steps."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10099",
+			"type": "message",
+			"role": "user",
+			"content": ["Alright. Bye."],
+			"interrupted": false
+		},
+		{
+			"id": "item_10100",
+			"type": "message",
+			"role": "assistant",
+			"content": ["Goodbye, Frank."],
+			"interrupted": false
+		}
+	]
+}
