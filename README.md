@@ -44,6 +44,7 @@ The sentiment helps reviewers quickly understand whether the candidate’s respo
   "tags": ["analytical", "collaborative", "confident"],
   "sentiment": "positive"
 }
+```
 
 ## What we will assess:
 
