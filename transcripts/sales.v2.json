@@ -1,0 +1,423 @@
+{
+	"items": [
+		{
+			"id": "item_100000",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Hello Anton, welcome to your interview. Can you hear me clearly today?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100001",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, loud and clear. Can we just get this over with? I've got other calls."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100002",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright, Anton. My name is Alex, and I'm a Senior Sales SDR here at Salesio GmbH, with over seven years in the role. To start, could you please introduce yourself and provide an overview of your sales experience?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100003",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I'm Anton. Been in sales for a year. I'm pretty good at it, actually. I mean, my numbers speak for themselves. I just hit my quota, so, yeah."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100004",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"That's great you hit your quota, Anton. Could you tell me about a specific time you identified a lead that your colleagues might have overlooked, and how you managed to convert that into a successful meeting?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100005",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Honestly, I don't really look at what others miss. I just focus on my own leads. I usually find good ones, so it's not really an issue. Most of the time, I'm just better at finding them than other people."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100006",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I understand. So, focusing on your own approach, how do you typically identify your ideal customer profiles (ICPs) and refine your targeting strategies?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100007",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just go for the big companies. More money there, right? And I use LinkedIn. It's pretty straightforward, just search for titles that look promising. It works."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100008",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And when you're on a call, what specific questions do you ask to determine if a prospect is truly qualified, or just casually interested?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_100009",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I ask if they need what we're selling. If they say yes, boom, qualified. If they don't, then I move on. No point wasting my time on unqualified leads."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10010",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I see. How do you typically handle objections or pushback, for example, when a prospect says they're 'not interested' or 'too busy'?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10011",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just tell them why they *should* be interested. I mean, our product is amazing. If they're 'too busy,' I tell them they need to make time. It's their loss if they don't talk to me."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10012",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. When sending emails, how do you personalize your outreach? What's your strategy to make your messages stand out from the crowd?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10013",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I put their company name in the email. And their name. That's personalization, right? I use templates, they're super efficient. And my templates are better than anyone else's, so they usually get opened."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10014",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"And how do you measure the success of your outreach beyond just meeting your quota? What specific metrics do you track, if any?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10015",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I hit my quota, that's what matters. Who cares about open rates? If they open and don't reply, it's their problem, not mine. My job is to book meetings, and I do that."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10016",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. How do you collaborate with Account Executives (AEs) to ensure a smooth handover and maximize the chances of converting the leads you provide?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10017",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I book the meeting. They just need to close it. I mean, if they can't close it, that's on them, right? I've done my job. I put everything in the CRM, they can read it there."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10018",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I see. How do you approach continuous learning and self-improvement in sales? What resources or strategies do you use?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10019",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I learn from doing. I've got talent, so I don't really need to read books or listen to podcasts like some people. My results speak for themselves. I figured it all out pretty quickly."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10020",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. Could you describe a time you faced a particularly difficult or skeptical prospect? How did you handle that interaction, and what was the outcome?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10021",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"If they're difficult, I just move on. Why waste time? There are plenty of fish in the sea, you know? Not worth the hassle. I'm here to hit my numbers, not convince people who don't want to be convinced."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10022",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. How do you manage your time and prioritize your activities to ensure you're consistently hitting your outreach targets and qualification goals?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10023",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just work hard. I come in, make my calls, send my emails. Whatever it takes. I don't really need a fancy system or anything. It's just about hustle."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10024",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"And how do you handle situations where a prospect might not be a fit for your current solution? Do you offer alternatives or simply move on?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10025",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"If they're not a fit, they're not a fit. Next. My job isn't to be a consultant. It's to find people who need what we sell. I'm not here to help other companies' sales teams."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10026",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Have you ever been involved in coaching or mentoring junior SDRs, or perhaps received feedback from a peer or manager?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10027",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"No, not really. I'm pretty new myself, only a year in. And I don't really need coaching. I'm already doing great, so why would I need someone telling me what to do?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10028",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. What's your experience with different sales engagement platforms? Do you have a favorite, and why?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10029",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just use whatever the company gives me. They're all pretty much the same. As long as I can send emails and make calls, I'm good. It's about the hustle, not the tool."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10030",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"How do you adapt your communication style and messaging when reaching out to different personas within a target account, like a CEO versus a Head of IT?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10031",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I just tell them what our product does. It's good for everyone, so the message is basically the same. CEOs care about money, IT cares about tech. I cover both bases generally. Don't overcomplicate it."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10032",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Okay. And how do you approach generating referrals from existing satisfied customers or partners?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10033",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"I don't really do referrals. That's more of an AE thing, or maybe customer success. My focus is new business, not chasing existing relationships."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10034",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright. How do you handle rejection or a series of 'no's during your outreach? What keeps you motivated?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10035",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Rejection doesn't bother me. It's their loss if they don't want to talk to me. I just move on. My motivation is simple: hit my numbers, make money. That's all that matters."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10036",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"I see. What's your strategy for leveraging LinkedIn, both for prospecting and for building your personal brand?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10037",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"LinkedIn is for finding people. I send connection requests and messages. Don't really care about building a 'personal brand,' honestly. Just need to get the job done."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10038",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"What do you believe are the key differences between a good SDR and a truly great, top-performing SDR?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10039",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"A good SDR hits quota. A great SDR probably hits it faster, and maybe gets more meetings. It's mostly about how much effort you put in, and having natural talent. I've got the talent."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10040",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Alright, Anton. Do you have any questions for me about Salesio GmbH, the sales team culture, or the specific Senior SDR role?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10041",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Yeah, what's the commission structure like? And how soon can I get promoted to AE? I don't plan on being an SDR for long."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10042",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"We can discuss the specifics of our compensation and career progression pathways if we move forward to the next stage of interviews, Anton. For now, do you have any other questions related to the day-to-day role or the team environment?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10043",
+			"type": "message",
+			"role": "user",
+			"content": [
+				"Not really. I think I've got a pretty good handle on it. I'm sure I'd excel here. When do I hear back?"
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10044",
+			"type": "message",
+			"role": "assistant",
+			"content": [
+				"Thank you for your time, Anton. We'll be in touch by the end of this week regarding the next steps."
+			],
+			"interrupted": false
+		},
+		{
+			"id": "item_10045",
+			"type": "message",
+			"role": "user",
+			"content": ["Great. Later."],
+			"interrupted": false
+		},
+		{
+			"id": "item_10046",
+			"type": "message",
+			"role": "assistant",
+			"content": ["Goodbye, Anton."],
+			"interrupted": false
+		}
+	]
+}
