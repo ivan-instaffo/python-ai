@@ -20,7 +20,7 @@ Your team needs a microservice that summarizes interview transcripts. Your servi
 
 ## Submission Guidelines
 
-- Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo` and `@vincenzo-instaffo` as collaborators upon completion
+- Work on your solution inside a **private** GitHub repository and invite `@ivan-instaffo`, `@vincenzo-instaffo` and `@PatrickLerner` as collaborators upon completion
 - Provide a link to your short walk-through video (you can use Loom; anything is fine given it is easily accessible)
 - Reach out as soon as you are finished and include the repository as well as the video link
 
